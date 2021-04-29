@@ -1,0 +1,17 @@
+URL = "https://TommyOD97.github.io"
+googleAnalytics = "UA-159072578-1"
+title = "Simon Jaeger"
+theme = "academimal"
+sectionPagesMenu = "main"
+defaultContentLanguage = "en"
+disableKinds = ["taxonomy", "taxonomyTerm"]
+
+[author]
+name = "Simon Jaeger"
+
+[params]
+title = "Assistant Professor of Economics,"
+institution = "Massachusetts Institute of Technology"
+logo = "Simon_Jaeger.jpg"
+Twitter = "Simon_Jaeger"
+Email = "sjaeger@mit.edu"
