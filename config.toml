@@ -1,4 +1,4 @@
-RelativeURLs = TRUE
+RelativeURLs = True
 googleAnalytics = "UA-159072578-1"
 title = "Simon Jaeger"
 theme = "academimal"
