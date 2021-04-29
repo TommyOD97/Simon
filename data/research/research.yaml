@@ -1,13 +1,12 @@
       
 workingpapers:
 
-- title: "A Policy Matrix for Inclusive Prosperity"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/policy_matrix_nber_w28736.pdf"
-  book: "NBER Working Paper 28736"
-  coauthors: "Dani Rodrik"
+- title: "Voices at Work"
+  pdflink: "https://http://economics.mit.edu/files/21196.pdf"
+  coauthors: "Jarkko Harju and Benjamin Schoefer"
   year: "2021" 
   abstract: >
-    One of the biggest challenges that countries face today is the very unequal distributions of opportunities, resources, income and wealth across people. Inclusive prosperity – whereby many people from different backgrounds can benefit from economic growth, new technologies, and the fruits of globalization –remains elusive. To address these issues, societies face choices among many different policies and institutional arrangements to try to ensure a proper supply of productive jobs and activities, as well as access to education, financial means, and other endowments that prepare individuals for their participation in the economy. In this paper we offer a simple, organizing framework to think about policies for inclusive prosperity. We provide a comprehensive taxonomy of policies, distinguishing among the types of inequality they address and the stages of the economy where the intervention takes place. The taxonomy clarifies the differences among contending approaches to equity and inclusion and can help analysts assess the impacts and implications of different policies and identify potential gaps.
+   We estimate the effects of worker voice on job quality and separations. We leverage the 1991 introduction of worker representation on boards of Finnish firms with at least 150 employees. In contrast to exit-voice theory, our difference-in-differences design reveals no effects on voluntary job separations, and at most small positive effects on other measures of job quality (job security, health, subjective job quality, and wages). Worker voice slightly raised firm survival, productivity, and capital intensity. A 2008 introduction of shop-floor representation had similarly limited effects. Interviews and surveys indicate that worker representation facilitates information sharing rather than boosting labor’s power.
 
 - title: "Inequalities in the Times of a Pandemic"
   pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid19_policy.pdf"
