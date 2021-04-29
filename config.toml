@@ -1,4 +1,4 @@
-RelativeURLs = true
+baseurl = ""
 googleAnalytics = ""
 title = "Simon Jaeger"
 theme = "academimal"
