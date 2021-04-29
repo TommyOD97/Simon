@@ -1,4 +1,4 @@
-URL = "https://github.com/TommyOD97/TommyOD97.github.io.git"
+RelativeURLs = TRUE
 googleAnalytics = "UA-159072578-1"
 title = "Simon Jaeger"
 theme = "academimal"
