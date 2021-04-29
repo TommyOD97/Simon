@@ -1,369 +1,45 @@
       
 workingpapers:
 
-- title: "NO Voices at Work"
-  pdflink: "https://economics.mit.edu/files/21196.pdf"
-  coauthors: "Jarkko Harju and Benjamin Schoefer"
-  book: "Working Paper"
-  year: "2021" 
+- title: "Long-Term Effects of Equal Sharing: Evidence from Inheritance Rules for Land"
+  pdflink: "http://economics.mit.edu/files/20830.pdf"
+  coauthors: "Charlotte Bartels and Natalie Obergruber"
   abstract: >
-   We estimate the effects of worker voice on job quality and separations. We leverage the 1991 introduction of worker representation on boards of Finnish firms with at least 150 employees. In contrast to exit-voice theory, our difference-in-differences design reveals no effects on voluntary job separations, and at most small positive effects on other measures of job quality (job security, health, subjective job quality, and wages). Worker voice slightly raised firm survival, productivity, and capital intensity. A 2008 introduction of shop-floor representation had similarly limited effects. Interviews and surveys indicate that worker representation facilitates information sharing rather than boosting labor’s power.
+    What are the long-term economic effects of a more equal distribution of wealth? We exploit variation in historical inheritance rules for land traversing political, linguistic, geological, and religious borders in Germany. In some German areas, inherited land was to be shared or divided equally among children, while in others land was ruled to be indivisible. Using a geographic regression discontinuity design, we show that equal division of land led to a more equal distribution of land; other potential drivers of growth are smooth at the boundary and equal division areas were not historically more developed. Today, equal division areas feature higher average incomes and a right-shifted skill, income, and wealth distribution. Higher top incomes and top wealth in equal division areas coincide with higher education, and higher labor productivity. We show evidence consistent with the more even distribution of land leading to more innovative industrial by-employment during Germany’s transition from an agrarian to an industrial economy and, in the longrun, more entrepreneurship.
 
 
-- title: "Voices at Work"
-  pdflink: "https://economics.mit.edu/files/21196.pdf"
-  coauthors: "Jarkko Harju and Benjamin Schoefer"
-  book: "Working Paper"
-  year: "2021" 
-  abstract: >
-   We estimate the effects of worker voice on job quality and separations. We leverage the 1991 introduction of worker representation on boards of Finnish firms with at least 150 employees. In contrast to exit-voice theory, our difference-in-differences design reveals no effects on voluntary job separations, and at most small positive effects on other measures of job quality (job security, health, subjective job quality, and wages). Worker voice slightly raised firm survival, productivity, and capital intensity. A 2008 introduction of shop-floor representation had similarly limited effects. Interviews and surveys indicate that worker representation facilitates information sharing rather than boosting labor’s power.
-
-- title: "Inequalities in the Times of a Pandemic"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid19_policy.pdf"
-  book: "Economic Policy [forthcoming]"
-  year: "2021"
-  links: 
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_covid_inequalities.pdf"
-      text: "Slides"
-  abstract: >
-    This paper summarizes some of the most major inequalities that have been exacerbated by the COVID- 19 pandemic and discusses avenues for policy intervention over the medium and long run.
-  
-
-- title: "Social Position and Fairness Views"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/social_position_fairness_nber.pdf"
-  book: "NBER Working Paper 28099"
-  coauthors: "Claus Thustrup Kreiner and Kristoffer Balle Hvidberg"
-  year: "2021"
-  links:
-    - url: "https://www.dropbox.com/s/f277oggwpubi2t9/Slides_WashU.pdf?dl=0"
-      text: "Slides"
-  presscoverage:
-    - url: "https://voxeu.org/article/how-social-position-shapes-views-fairness"
-      text: "VoxEU"
-    - url: "https://www.nber.org/digest-202103/determinants-views-fairness-inequality"
-      text: "NBER Digest"
-    - url: "https://www.marketplace.org/2021/03/25/research-suggests-were-misperceiving-the-inequality-around-us/"
-      text: "Marketplace"  
-  abstract: >
-    We link survey data containing Danish people’s perceptions of where they rank in various reference groups and fairness views with administrative records on their income history, life events, and reference groups. People know their income positions well, but believe others are closer to themselves than they really are. The perceived fairness of inequalities is strongly related to current social position, moves with shocks to social position (e.g., unemployment or promotions), and changes when people are experimentally shown their actual positions. People view inequalities within education group and co-workers as most unfair, but underestimate inequality the most exactly within these reference groups.
-    
-- title: "Civil Liberties in the Time of Health and Economic Crises"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27972.pdf"
-  book: "NBER Working Paper 27972"
-  coauthors: "Marcella Alsan, Luca Braghieri, Sarah Eichmeyer, Joyce Kim, and David Yang"
-  year: "2020"
-  links:
-    - url: "https://www.dropbox.com/s/t4r09gqmpz8s53y/COVID_19_Harvard_Public_Slides.pdf?dl=0"
-      text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/abeksy_civil_lib_public_health_appendixonline.pdf"
-      text: "Online Appendix"
-  abstract: >
-    The respect for and protection of civil liberties are one of the fundamental roles of the state, and many consider civil liberties as sacred and “nontradable.” Using cross-country representative surveys that cover 15 countries and over 370,000 respondents, we study whether and the extent to which citizens are willing to trade off civil liberties during the COVID-19 pandemic, one of the largest crises in recent history. We find four main results. First, many around the world reveal a clear willingness to trade off civil liberties for improved public health conditions. Second, consistent across countries, exposure to health risks is associated with citizens’ greater willingness to trade off civil liberties, though individuals who are more economically disadvantaged are less willing to do so. Third, attitudes concerning such trade-offs are elastic to information. Fourth, we document a gradual decline and then plateau in citizens’ overall willingness to sacrifice rights and freedom as the pandemic progresses, though the underlying correlation between individuals’ worry about health and their attitudes over the trade-offs has been remarkably constant. Our results suggest that citizens do not view civil liberties as sacred values; rather, they are willing to trade off civil liberties more or less readily, at least in the short-run, depending on their own circumstances and information. 
-
-- title: "Understanding Tax Policy: How do people Reason?"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27699_1.pdf"
-  book: "NBER Working Paper 27699"
-  year: "2020"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/understanding_taxes_slides.pdf"
-      text: "Slides"
-    - url: "https://www.dropbox.com/s/2evbqrrnodbkzet/Survey_Questionnaires.pdf?dl=0"
-      text: "Survey Questionnaires"
-    - url: "https://www.dropbox.com/s/t8fj3fi82hfsjrc/Stantcheva_Understanding_Taxes_OA.pdf?dl=0"
-      text: "Online Appendix"
-    - url: "https://understandingeconomics.org/#/"
-      text: "Understanding Economics Website"
-  abstract: >
-    I study how people understand, reason, and learn about tax policy. The goal is to uncover the mental models that people use to think about income and estate taxes. To that end, I run large-scale online surveys and experiments on representative U.S. samples to elicit not only respondents' factual knowledge about tax policy and the income or wealth distributions, but also their understanding of the mechanisms of tax policy and their reasoning about it. The detailed survey questions are designed to address the three main factors emphasized in our core tax model that can shape support for or opposition to taxes: efficiency effects, distributional implications, and fairness considerations. But they also elicit broader concerns that could influence policy views, such as misperceptions, views of government, perceived spillovers from taxes, and views on how tax revenues are or should be spent. I decompose policy views into the various underlying factors and find that support for tax policy is most strongly correlated with views on the benefits of redistribution and fairness, as well as with views of the government. Efficiency concerns play a more minor role. These correlational patterns are confirmed by the experimental approach, which shows people instructional videos that explain the workings and consequences of one of the aspects of tax policy (the ``Redistribution'' and the ``Efficiency'' treatments) or that bring the two together and focus on the trade-off (the ``Economist'' treatment). The Redistribution treatment and Economist treatments significantly increase support for more progressive taxes. I also find that there are partisan divergences not just in the final policy views, but also at every step of the reasoning about the underlying mechanisms of taxes, and most starkly on the fairness considerations. 
-
-- title: "Optimal Taxation and R&D Policies"
-  pdflink: "https://www.dropbox.com/s/z4msv87wf7r27ze/AkcigitHanleyStantcheva_RD_Policies.pdf?dl=0"
-  book: "NBER Working Paper 22908 [Revise and Resubmit at Econometrica]"
-  coauthors: "Ufuk Akcigit and Douglas Hanley"
+- title: "How Substitutable are Workers? Evidence from Worker Deaths"
+  pdflink: "http://economics.mit.edu/files/16635.pdf"
+  book: "Revise and resubmit, American Economic Review"
+  coauthors: "Jörg Heining"
   year: "2019"
-  abstract: >
-    We study the optimal design of corporate taxation and R&D policies as a dynamic mechanism design problem with spillovers. Firms are heterogeneous in their research productivity, i.e., in the efficiency with which they convert a given set of R&D inputs into successful innovations and that research productivity is private information. There are non-internalized technological spillovers across firms, but the asymmetric information prevents correcting them in the first best way. We highlight that key parameters for the optimal policies are i) the relative complementarities between observable R&D investments, unobservable R&D inputs, and firm research productivity, ii) the dispersion and persistence of firms' research productivities, and iii) the magnitude of technological spillovers across firms. We estimate our model using firm-level data matched to patent data and quantify the optimal policies. In the data, high research productivity firms get disproportionately higher returns to R&D investments than lower productivity firms. Very simple innovation policies, such as linear corporate taxes combined with a nonlinear R&D subsidy -- that provides lower marginal subsidies at higher R&D levels -- can do almost as well as the full unrestricted optimal policies. Our formulas and theoretical and numerical methods are more broadly applicable to the provision of firm incentives in dynamic settings with asymmetric information and spillovers and to firm taxation more generally.
-
-- title: "Taxation and Innovation in the 20th Century [Updated March 2021]"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/taxation_innovation.pdf"
-  book: "NBER Working Paper 24982 [Revise and Resubmit at the Quarterly Journal of Economics]"
-  coauthors: "Ufuk Akcigit, John R. Grigsby and Tom Nicholas"
-  year: "2018"
   presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/taxation_and_innovation_in_the_20th_century_vox_cepr_policy_portal.pdf"
-      text: "VoxEU"
+    - url: "https://clsbluesky.law.columbia.edu/2017/06/14/how-substitutable-are-workers-evidence-from-worker-deaths/"
+      text: "Summary for Columbia Law School's blog" 
   abstract: >
-    This paper studies the effect of corporate and personal taxes on innovation in the United States over the twentieth century. We build a panel of the universe of inventors who patent since 1920, and a historical state-level corporate tax database with corporate tax rates and tax base information, which we link to existing data on state-level personal income taxes and on other economic outcomes. Our analysis focuses on the impact of personal and corporate income taxes on individual inventors (the micro level) and on states (the macro level), considering the quantity and quality of innovation, its location, and the share produced by the corporate rather than the non-corporate sector. We propose several identification strategies, all of which yield consistent results. We find that higher taxes negatively impact the quantity and the location of innovation, but not average innovation quality. The state-level elasticities to taxes are large and consistent with the aggregation of the individual level responses of innovation produced and cross-state mobility. Corporate taxes tend to especially affect corporate inventors’ innovation production and cross-state mobility. Personal income taxes significantly affect the quantity of innovation overall and the mobility of inventors.
-- title: "Immigration and Redistribution"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_miano_stantcheva_immigration.pdf"
-  book: "NBER Working Paper 24733 [Revise and Resubmit at The Review of Economic Studies]"
-  coauthors: "Alberto Alesina and Armando Miano"
-  year: "2018"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_immigration_june2019_am.pdf"
-      text: "Slides"
-  presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/immigration_myths_and_global_realities_-_the_new_york_times.pdf"
-      text: "New York Times (June 2018)"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/the_fog_of_immigration_by_stefanie_stantcheva_-_project_syndicate_01.pdf"
-      text: "Project Syndicate"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/corriere.pdf"
-      text: "Corriere della Sera"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/misperceptions_about_immigration_and_support_for_redistribution_vox_cepr_policy_portal.pdf"
-      text: "VoxEU"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/new_york_times_dec_2018.pdf"
-      text: "New York Times (December 2018)"
-  abstract: >
-    We design and conduct large-scale surveys and experiments in six countries to investigate how natives perceive immigrants and how these perceptions influence their preferences for redistribution. We find strikingly large misperceptions about the number and characteristics of immigrants: in all countries, respondents greatly overestimate the total number of immigrants, think immigrants are culturally and religiously more distant from them, and are economically weaker -- less educated, more unemployed, and more reliant on and favored by government transfers -- than is the case. Given the very negative baseline views that respondents have of immigrants, simply making them think about immigration before asking questions about redistribution, in a randomized manner, makes them support less redistribution, including actual donations to charities. Information about the true shares and origins of immigrants is ineffective, and mainly acts as a prime that makes people think about immigrants and reduces their support for redistribution. An anecdote about a "hard working" immigrant is somewhat more effective, suggesting that when it comes to immigration, salience and narratives shape people's views more deeply than hard facts.
-- title: "Reforms and Dynamics of Income: Evidence Using New Panel Data"
-  pdflink: "https://www.dropbox.com/s/b1fx86ivdwvlrn6/Tax_Reforms.pdf?dl=0"
-  book: "Working Paper"
-  coauthors: "Philippe Aghion, Vlad Ciornohuz and Maxime Gravoueille"
-  year: "2019"
-  abstract: >
-- title: "Anatomy of Inequality in France"
-  pdflink: "https://www.dropbox.com/s/atkdc9f3vqixisy/Anatomy_Inequality_2019.pdf?dl=0"
-  book: "Working Paper"
-  coauthors: "Philippe Aghion, Vlad Ciornohuz and Maxime Gravoueille"
-  year: "2019"
-  abstract: >
-- title: "Dancing with the Stars: Innovation through Interactions"
-  pdflink: "https://www.dropbox.com/s/khxnw544zm2rg3s/Dancing_with_the_Stars.pdf?dl=0"
-  book: "NBER Working Paper 24466 [Revise and Resubmit at Econometrica]"
-  coauthors: "Ufuk Akcigit, Santiago Caicedo Soler, Ernest Miguelez and Valerio Sterzi"
-  year: "2018"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/acmss_dec2018.pdf"
-      text: "Slides"
-  abstract: >
-    An inventor's own knowledge is a key input in the innovation process. This knowledge can be built by interacting with and learning from others. This paper uses a new large-scale panel dataset on European inventors matched to their employers and patents. We document key empirical facts on inventors' productivity over the life cycle, inventors' research teams, and interactions with other inventors. Among others, most patents are the result of collaborative work. Interactions with better inventors are very strongly correlated with higher subsequent productivity. These facts motivate the main ingredients of our new innovation-led endogenous growth model, in which innovations are produced by heterogeneous research teams of inventors using inventor knowledge. The evolution of an inventor's knowledge is explained through the lens of a diffusion model in which inventors can learn in two ways: By interacting with others at an endogenously chosen rate; and from an external, age-dependent source that captures alternative learning channels, such as learning-by-doing. Thus, our knowledge diffusion model nests inside the innovation-based endogenous growth model. We estimate the model, which fits the data very closely, and use it to perform several policy exercises, such as quantifying the large importance of interactions for growth, studying the effects of reducing interaction costs (e.g., through IT or infrastructure), and comparing the learning and innovation processes of different countries.
-- title: "Tax Simplicity and Heterogeneous Learning."
-  pdflink: "https://www.dropbox.com/s/frkj1jrvm1dee8r/Tax_Simplicity.pdf?dl=0"
-  book: "NBER Working Paper 24049"
-  coauthors: "Ufuk Akcigit, Philippe Aghion and Mathieu Lequien"
-  year: "2017"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_princeton_v3.pdf"
-      text: "Slides"
-  presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/washington_post.pdf"
-      text: "Washington Post"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/phobie_administrative_une_marque_pleine_davenir_-_liberation.pdf"
-      text: "Liberation"
-  abstract: >
-    We study how strongly individuals respond to tax simplicity and how they learn about the complexities of the tax system.  We focus on the self-employed, who can more easily adjust to tax incentives and whose responses directly stem from their own understanding of the tax system. We use new French tax returns data from 1994 to 2012. France serves as a good quasi-laboratory: it has three fiscal regimes -- or modes of taxation-- for the self-employed, which differ in their monetary tax incentives and in their tax simplicity. Two key features are that, first, these regimes are subject to eligibility thresholds; we find large excess masses (bunching) right below the latter. Second, the regimes impact different agents heterogeneously and have changed extensively over time. Taken together, these two key elements give us measures of tax responses (the bunching) as well as the variation needed to jointly estimate a value of tax simplicity and taxable income elasticities. They also give us an opportunity to study how individuals learn about and respond over time to changing policy parameters. We estimate a large value for tax simplicity of up to 650 euros per year per individual depending on the regime and activity. We also find sizable costs of tax complexity; agents are not immediately able to understand what the right regime choice is, leave significant money on the table, and learn over time. The cost of complexity is "regressive" in that it affects mostly the uneducated, low income, and low skill agents. Agents who can be viewed as more informed and knowledgable (e.g., the more educated or high-skilled) are more likely to make the correct regime choice and to learn faster.
-- title: "Learning and (or) Doing: Human Capital Investments and Optimal Taxation"
-  pdflink: "https://www.dropbox.com/s/a8maioib60xh05a/SStantcheva_Training.pdf?dl=0"
-  book: "NBER Working Paper 21381"
-  year: "2015"
-  abstract: >
-    This paper considers a dynamic taxation problem when agents can allocate their time between working and investing in their human capital. Time investment in human capital, or "training", increases the wage and can interact with an agent's intrinsic, exogenous, and stochastic earnings ability. It also interacts with both current and future labor supply and there can be either "learning-and-doing" (when labor and training are complements) or "learning-or-doing" (when labor and training are substitutes). Agents' abilities and labor supply are private information to them, which leads to a dynamic mechanism design problem with incentive compatibility constraints. At the optimum, the subsidy on training time is set so as to balance the total labor supply effect of the subsidy and its distributional consequences. In a one-period version of the model, particularly simple relations arise at the optimum between the labor wedge and the training wedge that can also be used to test for the Pareto efficiency of existing tax and subsidy systems. In the limit case of learning-by-doing (when training is a direct by-product of labor) or in the case in which agents who are more able at work are also more able at training, there are important modifications to the labor wedge.
-- title: "Optimal Income, Education and Bequest Taxes in an Intergenerational Model"
-  pdflink: "https://www.dropbox.com/s/yelf9ft82wg9s5g/Education_Intergen.pdf?dl=0"
-  book: "NBER Working Paper 21177"
-  year: "2015"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/intergenerational_v2.pdf"
-      text: "Slides"
-  abstract: >
-    This paper considers dynamic optimal income, education, and bequest taxes in a Barro-Becker dynastic setup. Parents can transfer resources to their children in two ways: First, through education investments, which have heterogeneous and stochastic returns for children, and, second, through financial bequests, which yield a safe, uniform return. Each generation's productivity and preferences are subject to idiosyncratic shocks. I derive optimal linear formulas for each tax, as functions of estimable sufficient statistics, robust to underlying heterogeneities in preferences, and at any given level of all other taxes. It is in general not optimal to make education expenses fully tax deductible and the optimal education subsidy, income tax and bequest tax can, but need not, move together at the optimum. I also show how to derive optimal formulas using "reform-specific elasticities" that can be targeted to empirical estimates from existing reforms. I extend the model to an OLG model with altruism to study the effects of credit constraints on optimal policies. Finally, I solve for the fully unrestricted policies and show that, if education is highly complementary to children's ability, it is optimal to distort parents' trade-off between education and bequests and to tax education investments relative to bequests.
+    To assess the substitutability between workers within a firm, and between incumbent workers and outsiders, we estimate how exogenous worker exits aect a firm’s demand for incumbent workers and new hires. Using matched employer-employee data from Germany, we analyze the eects of 34,000 unexpected worker deaths and show that these worker exits on average raise the remaining workers’ wages and retention probabilities for a period of several years. The average eect masks substantial heterogeneity: Coworkers in the same occupation as the deceased see positive wage eects; coworkers in other occupations instead experience wage decreases when a high-skilled worker or manager dies. Finally, when the external labor market in the deceased’s occupation is thin, incumbents’ wages respond more and external hiring responds less to a worker death. Taken together, our findings imply that incumbent workers are closer substitutes to one another compared to outsiders, that high-skilled workers and managers are complements to coworkers in other occupations, and that thin external markets for skills lead to higher firm-specificity of human capital and lower replaceability of incumbents.
 
 
 publications:
 
-- title: "Why do we not Support more Redistribution? New Explanations from Economics Research"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_v2.pdf"
-  book_edited: "Combating Inequality: Rethinking Policies to Reduce Inequality in Advanced Economies"
-  editors: "Dani Rodrik and Olivier Blanchard, MIT University Press"
-  year: "2021"
+- title: "A Permutation Test for the Regression Kink Design"
+  pdflink: "http://economics.mit.edu/files/13020.pdf"
+  book: "Journal of the American Statistical Association, Vol. 113:522, pp. 494-504"
+  coauthors: "Peter Ganong"
+  year: "2018"
+  abstract: >
+    The Regression Kink (RK) design is an increasingly popular empirical method for estimating causal effects of policies, such as the effect of unemployment benefits on unemployment duration. Using simulation studies based on data from existing RK designs, we empirically document that the statistical significance of RK estimators based on conventional standard errors can be spurious. In the simulations, false positives arise as a consequence of nonlinearities in the underlying relationship between the outcome and the assignment variable, confirming concerns about the misspecification bias of discontinuity estimators pointed out by Calonico et al. (2014b). As a complement to standard RK inference, we propose that researchers construct a distribution of placebo estimates in regions with and without a policy kink and use this distribution to gauge statistical significance. Under the assumption that the location of the kink point is random, this permutation test has exact size in finite samples for testing a sharp null hypothesis of no effect of the policy on the outcome. We implement simulation studies based on existing RK applications that estimate the effect of unemployment benefits on unemployment duration and show that our permutation test as well as inference procedures proposed by Calonico et al. (2014b) improve upon the size of standard approaches, while having sufficient power to detect an effect of unemployment benefits on unemployment duration.
 
-- title: "Clearing the Bar: Improving Tax Compliance for Small Firms through Target Setting"
-  pdflink: "https://authors.elsevier.com/a/1cjKL5330XXnd"
-  book: "Journal of International Economics 130: 103452 [also NBER Working Paper 27770]"
-  coauthors: "Yazan Al-Karablieh and Evangelos Koumanakos"
-  year: "2021"
-  abstract: >
-    We use a new dataset of the universe of Greek corporate tax returns to study a voluntary tax compliance program for small firms. This “self-assessment” program prescribed target taxable profit margins (the ratio of taxable profits to revenues) for different types of activities. Firms that reported profit margins above these targets in a given year were exempt from audits in that year. We find that the firms that take up the program report significantly larger taxable profits than non-eligible firms, with some evidence for longer-lasting effects on tax reporting. Firms that take up the program for more years exhibit stronger effects. We also find that firms can easily and substantially manipulate reported revenue (decreasing it by up to 40%) to help meet prescribed profit margins without paying more in taxes. Overall, the program increased tax revenues collected from small firms, but points to a very large level of baseline under-reporting of profits and the ease of manipulating reported revenues.
 
-- title: "Disparities in Coronavirus 2019 Reported Incidence, Knowledge, and Behavior Among US Adults"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alsan_2020_oi_200469.pdf"
-  book: "JAMA Network Open"
-  coauthors: "Marcella Alsan, David Yang, and David Cutler"
-  year: "2020"
-  
-- title: "Taxation and Innovation: What Do We Know?"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/w27109.pdf"
-  book: "NBER Tax Policy and the Economy [also NBER Working Paper 27109]"
-  coauthors: "Ufuk Akcigit"
-  year: "2020"
-  abstract: >
-    Tax policies are a wide array of tools, commonly used by governments to influence the economy. In this paper, we review the many margins through which tax policies can affect innovation, the main driver of economic growth in the long-run. These margins include the impact of tax policy on i) the quantity and quality of innovation; ii) the geographic mobility of innovation and inventors across U.S. states and countries; iii) the declining business dynamism in the U.S., firm entry, and productivity; iv) the quality composition of firms, inventors, and teams; and v) the direction of research effort, e.g., toward applied versus basic research, or toward dirty versus clean technologies. We give ideas drawn from research on how the  design of policy can allow policy makers to foster the most productive firms without wasting public funds on less productive ones.
-  
-- title: "Dynamic Taxation"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/stantcheva_dynamic_taxation_ar.pdf"
-  book: "Annual Review of Economics Vol. 12: 801–831"
-  year: "2020"
-  abstract: >
-    This paper reviews recent advances in the study of dynamic taxation, considering three main approaches: the dynamic Mirrlees, the parametric Ramsey, and the sufficient statistics approaches. In the first approach, agents' heterogeneous abilities to earn income are private information and evolve stochastically over time. Dynamic taxes are not ex ante restricted and are set for redistribution and insurance considerations. Capital is taxed only in order to improve incentives to work. Human capital is optimally subsidized if it reduces post-tax inequality and risk on balance. The Ramsey approach specifies ex ante restricted tax instruments and adopts quantitative methods, which allows it to consider more complex and realistic economies. Capital taxes are optimal when age-dependent labor income taxes are not possible. The newer and tractable sufficient statistics approach derives robust tax formulas that depend on estimable elasticities and features of the income distributions. It simplifies the transitional dynamics thanks to a newly defined criterion, the "utility-based steady state approach" that prevents the government from exploiting sluggish responses in the short-run. Capital taxes are here based on the standard equity-efficiency trade-off. 
-- title: "The Polarization of Reality"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/polarization_reality.pdf"
-  book: "American Economic Review Papers and Proceedings 110: 324-328 [also NBER Working Paper 26675]"
-  coauthors: "Alberto Alesina and Armando Miano"
-  year: "2020"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_aea_v2.pdf"
-      text: "Slides"
-  abstract: >
-    Americans are polarized not only in their views on policy issues and attitudes towards government and society, but also in their perceptions of the same, factual reality. In this paper we conceptualize how to think about the "polarization of reality’’ and review recent papers that show that Republicans and Democrats (as well as Trump and non-Trump voters since 2016) view the same reality through a very different lens. Perhaps as a result, they hold different views about policies and what should be done to address different economic and social issues. We also show that providing information leads to different reassessments of reality and different responses along the policy support margin, depending on one's political leanings. This is not about having different attitudes about economic or social phenomena or policies that could justifiably be viewed differently from different angles. What is striking is to have different perceptions of realities that can be factually checked.
-- title: "Diversity, Immigration, and Redistribution"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_stantcheva_diversity.pdf"
-  book: "American Economic Review: Papers and Proceedings 110: 329-334 [also NBER Working Paper 26620]"
-  coauthors: "Alberto Alesina and Armando Miano"
-  year: "2020"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_template.pdf"
-      text: "Slides"
-  abstract: >
-    This paper provides a simple conceptual framework that captures how different perceptions, attitudes, and biases about immigrants or minorities can shape preferences for redistribution and reviews the empirical evidence on the effects of increasing racial diversity and immigration on support for redistribution.
-- title: "Taxation and Migration: Evidence and Policy Implications"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/jep.34.2.119.pdf"
-  book: "Journal of Economic Perspectives Spring 2020 34(2): 119-142 [also NBER Working Paper 25740]"
-  coauthors: "Henrik Kleven, Camille Landais and Mathilde Munoz"
-  year: "2020"
-  abstract: >
-    In this article, we review a growing empirical literature on the effects of personal taxation on the geographic mobility of people and discuss its policy implications. We start by laying out the empirical challenges that prevented progress in this area until recently, and then discuss how recent work have made use of new data sources and quasi-experimental approaches to credibly estimate migration responses. This body of work has shown that certain segments of the labor market, especially high-income workers and professions with little location-specific human capital, may be quite responsive to taxes in their location decisions. When considering the implications for tax policy design, we distinguish between uncoordinated and coordinated tax policy. We highlight the importance of recognizing that mobility elasticities are not exogenous, structural parameters. They can vary greatly depending on the population being analyzed, the size of the tax jurisdiction, the extent of tax policy coordination, and a range of non-tax policies. While migration responses add to the efficiency costs of redistributing income, we caution against over-using the recent evidence of (sizeable) mobility responses to taxes as an argument for less redistribution in a globalized world.
-- title: "A Simpler Theory of Optimal Capital Taxation"
-  pdflink: "https://www.dropbox.com/s/t6rf4nkghmleheq/SaezStantcheva_capital.pdf?dl=0"
-  book: "Journal of Public Economics 162: 120-142 [also NBER Working Paper 22664]"
-  coauthors: "Emmanuel Saez"
+- title: "Learning about Job Search: A Field Experiment with Job Seekers in Germany"
+  pdflink: "http://economics.mit.edu/files/13778.pdf"
+  book: "Journal of Public Economics, Vol. 164"
+  coauthors: "Steffen Altmann, Armin Falk, and Florian Zimmermann"
   year: "2018"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/capitaltax_slidesv11_cornell.pdf"
-      text: "Slides"
-  abstract: >
-    This paper develops a theory of optimal capital taxation that expresses optimal tax formulas in sufficient statistics. We first consider a simple model with utility functions linear in consumption and featuring heterogeneous utility for wealth. In this case, there are no transitional dynamics, the steady-state is reached immediately and has finite elasticities of capital with respect to the net-of-tax rate. This allows for a tractable optimal tax analysis with formulas expressed in terms of empirical elasticities and social preferences that can address many important policy questions. These formulas can easily be taken to the data to simulate optimal taxes, which we do using U.S. tax return data on labor and capital incomes. Second, we show how these results can be extended to the case with concave utility for consumption. The same types of formulas carry over by appropriately defining elasticities. We show that one can recover all the results from the simpler model using a new and non standard steady state approach that respects individual preferences even with a fully general utility function or uncertainty.  
-- title: "Intergenerational Mobility and Support for Redistribution"
-  pdflink: "https://scholar.harvard.edu/files/stantcheva/files/alesina_stantcheva_teso_mobility.pdf"
-  book: "American Economic Review 108 (2): 521-554 [also NBER Working Paper 23027]"
-  coauthors: "Alberto Alesina and Edoardo Teso"
-  year: "2018"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/online_appendix.pdf"
-      text: "Online Appendix"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_september2017.pdf"
-      text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_mobility_redistribution_frenchnationalassembly_june2019.pdf"
-      text: "Slides for the French National Assembly (June 2019)"
-  presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/americans_have_been_lying_to_themselves_about_the_economy_for_way_too_long_-_the_washington_post.pdf"
-      text: "Washington Post"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/the_american_dream_is_a_fallacy_and_americans_still_dont_realize_it_data_show_-_quartz.pdf"
-      text: "Quartz"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/where_the_american_dream_is_the_most_dead_people_believe_in_it_the_most_strongly_co.pdf"
-      text: "Fast Company"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/the_dark_side_of_american_optimism_-_the_atlantic.pdf"
-      text: "The Atlantic"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/vox.pdf"
-      text: "VOX"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/americans_overestimate_social_mobility_in_their_country_-_daily_chart.pdf"
-      text: "The Economist"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/u.s._doesnt_deliver_on_promise_of_equal_opportunity_for_all_-_bloomberg.pdf"
-      text: "Bloomberg"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/mobilite_sociale_le_redoutable_poison_du_pessimisme_francais_.pdf"
-      text: "Le Monde"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/prisoners_of_the_american_dream_by_stefanie_stantcheva_-_project_syndicate.pdf"
-      text: "Project Syndicate"
-    - url: "https://www.youtube.com/watch?v=YEPlphpFkFk#stantcheva"
-      text: "Project Syndicate Youtube Video"
-  abstract: >
-    Using new cross-country survey and experimental data, we investigate how beliefs about intergenerational mobility affect preferences for redistribution in France, Italy, Sweden, the U.K., and the U.S.. Americans are more optimistic than Europeans about social mobility. Our randomized treatment shows  pessimistic information about mobility and increases support for redistribution, mostly for "equality of opportunity" policies. We find a strong political polarization. Left-wing respondents are more pessimistic about mobility, their preferences for redistribution are correlated with their mobility perceptions, and they support more redistribution after seeing pessimistic information. None of these apply to right-wing respondents, possibly because they see the government as a "problem" and not as the "solution."
-- title: "Optimal Taxation and Human Capital Policies over the Life Cycle"
-  pdflink: "https://www.dropbox.com/s/jbtujtqbfonwlrh/S_Stantcheva_HumanCapital.pdf?dl=0"
-  book: "[Lead article] Journal of Political Economy 125 (6)"
-  coauthors: 
-  year: "2018"
-  links:
-    - url: "https://scholar.harvard.edu/files/S_Stantcheva_HumanCapital_OnlineAppendix.pdf"
-      text: "Online Appendix"
-  abstract: >
-    This paper derives optimal income tax and human capital policies in a life cycle model with risky human capital. The government faces asymmetric information regarding agents’ ability, its evolution, and labor supply. When the wage elasticity with respect to ability is increasing in human capital, the optimal subsidy involves less than full deductibility of human capital expenses on the tax base, and falls with age. Income contingent loans or a deferred deductibility scheme can implement the optimum. Numerical results suggest that full deductibility of expenses is close to optimal and that simple linear age-dependent policies perform very well.
-- title: "Taxation and the International Mobility of Inventors"
-  pdflink: "https://www.dropbox.com/s/jyf4l7lorevfvf8/Akcigit_Baslandze_Stantcheva_Taxation_Superstars.pdf?dl=0"
-  book: "American Economic Review 106 (10): 2930–2981"
-  coauthors: "Ufuk Akcigit and Salome Baslandze"
-  year: "2016"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/2015-0237_online_appendix.pdf"
-      text: "Online Appendix"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/slides_may2016.pdf"
-      text: "Slides"
-  presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/nber_digest.pdf"
-      text: "NBER Digest"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/the_telegraph_comment.pdf"
-      text: "The Telegraph"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/voxeu.pdf"
-      text: "VoxEU"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/why_everyone_needs_a_tax_cut.docx"
-      text: "Wall Street Journal"
-  abstract: >
-    This paper studies the effect of top tax rates on inventors' international mobility since 1977. We put special emphasis on "superstar" inventors, those with the most abundant and most valuable patents. We use panel data on inventors from the United States and European Patent Offices to track inventors' locations over time and combine it with international effective top tax rate data. We construct a detailed set of proxies for inventors' counterfactual incomes in each possible destination country including, among others, measures of patent quality and technological fit with each potential destination. Exploiting the differential impact of changes in the top tax rate on inventors of different qualities, we find that superstar top 1% inventors are significantly affected by top tax rates when deciding where to locate. The elasticity to the net-of-tax rate of the number of domestic superstar inventors is relatively small, around 0.03, while the elasticity of the number of foreign superstar inventors is around 1. Inventors who work in multinational companies are more likely to take advantage of tax differentials. On the other hand, if the company of an inventor has a higher share of its research activity in a given country, the inventor is less sensitive to the tax rate in that country.
-- title: "Generalized Social Welfare Weights for Optimal Tax Theory"
-  pdflink: "https://www.dropbox.com/s/wxpq16cwcqq58h3/Saez_Stantcheva_GSWW.pdf?dl=0"
-  book: "American Economic Review 106 (1): 24-45"
-  coauthors: "Emmanuel Saez"
-  year: "2016"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/sww_presentation_lse_may2015.pdf"
-      text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/saez_stantcheva_gsww_appendix.pdf"
-      text: "Online Appendix"
-  abstract: >
-    This paper proposes a new way to evaluate tax reforms, by aggregating losses and gains of different individuals using "generalized social marginal welfare weights." A tax system is optimal if no budget neutral small reform can increase the weighted sum of (money metric) gains and losses across individuals. Optimum tax formulas take the same form as standard welfarist tax formulas by simply substituting standard marginal social welfare weights with those generalized marginal social welfare weights. Weights directly capture society's concerns for fairness allowing us to cleanly separate individual utilities from social weights. Suitable weights can help reconcile discrepancies between the welfarist approach and actual tax practice, as well as unify in an operational way the most prominent alternatives to utilitarianism such as Libertarianism, Equality of Opportunity, or Poverty alleviation.
-- title: "How Elastic are Preferences for Redistribution: Evidence from Randomized Survey Experiments"
-  pdflink: "https://www.dropbox.com/s/q01khis47tedxbh/InequalitySurvey.pdf?dl=0"
-  book: "American Economic Review 105 (4): 1478-1508"
-  coauthors: "Ilyana Kuziemko, Michael Norton and Emmanuel Saez"
+
+- title: "Complex Tax Incentives"
+  pdflink: "http://economics.mit.edu/files/13021.pdf"
+  book: "American Economic Journal: Economic Policy, 7 (3):1-28"
+  coauthors: "Johannes Abeler"
   year: "2015"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/inequalitysurvey_slides.pdf"
-      text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/2013-0360_data.zip"
-      text: "Data"
-  abstract: >
-      We develop online survey experiments to analyze how information about inequality and taxes affects preferences for redistribution. Approximately 4,000 respondents were randomized into treatments providing interactive, customized information on U.S. income inequality, the link between top income tax rates and economic growth, and the estate tax. An additional 6,000 respondents were randomized into follow-up treatments to explore mechanisms underlying the initial results. The treatment has very large effects on whether respondents view inequality as a problem. By contrast, it only slightly moves policy preferences (e.g., top income tax rates and transfer programs). An exception is the estate tax---informing respondents of the small share of decedents who pay it more than doubles support for it and this effect persists in a one-month follow-up. We explore several explanations for our results. Extreme ex-ante misinformation appears to drive the large estate tax results. The small effects for all other policies can be at least partially explained by respondents' low trust in government---indeed, we show that priming people to think negatively about the government substantially reduces support for transfer programs---as well as a disconnect between concerns about social issues and the public policies that aim to address them.
-- title: "Optimal Income Taxation with Adverse Selection in the Labour Market"
-  pdflink: "https://www.dropbox.com/s/4ptn2471b1gd443/S_Stantcheva_AdverseSelection.pdf?dl=0"
-  book: "Review of Economic Studies 81: 1296-1329"
-  coauthors: 
-  year: "2014"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/adverse_selection_online_appendix.pdf"
-      text: "Online Appendix"
-  abstract: >
-    This paper studies optimal linear and nonlinear redistributive income taxation when there is adverse selection in the labor market. Unlike in standard taxation models, firms do not know workers' abilities and competitively screen them through nonlinear compensation contracts, unobservable to the government, in a Miyazaki-Wilson-Spence equilibrium. Adverse selection leads to different optimal tax formulas than in the standard Mirrlees (1971) model, because of the use of work hours as a screening tool by firms, which for higher talent workers results in a "rat race" and for lower talent workers in informational rents and cross-subsidies. The most surprising result is that, if the government has sufficiently strong redistributive goals, welfare is higher when there is adverse selection than when there is not. Policies that endogenously affect adverse selection are discussed. The model has practical implications for the interpretation, estimation, and use of taxable income elasticities, which are central to optimal tax design.
-- title: "Optimal Taxation of Top Incomes: A Tale of Three Elasticities"
-  pdflink: "https://www.dropbox.com/s/hxpmahsib5qogig/piketty-saez-stantchevaAEJ14.pdf?dl=0"
-  book: "American Economic Journal: Economic Policy 6 (1): 230-271"
-  coauthors: "Thomas Piketty and Emmanuel Saez"
-  year: "2014"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/files_nberwp.zip"
-      text: "Data"
-  presscoverage:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/how_to_tax_the_rich_explained_-_vox.pdf"
-      text: "VOX"
-  abstract: >
-      This paper presents a model of optimal labor income taxation in which top incomes respond to marginal tax rates through three channels: (1) standard labor supply, (2) tax avoidance, (3) compensation bargaining. We derive the optimal top tax rate formula as a function of the three corresponding behavioral elasticities. The first elasticity (labor supply) is the sole real factor limiting optimal top tax rates. The optimal tax system should be designed to minimize the second elasticity (avoidance) through tax enforcement and tax neutrality across income forms. The optimal top tax rate increases with the third elasticity (bargaining) as bargaining efforts are zero-sum in aggregate. We provide evidence on this elasticity using cross-country times series macro-evidence and CEO pay micro-evidence. The macro-evidence from 18 OECD countries shows that there is a strong negative correlation between top tax rates and top 1% income shares since 1960, implying that the overall elasticity is large. However, top income share increases have not translated into higher economic growth. US CEO pay evidence shows that pay for luck is quantitatively more important when top tax rates are low. International CEO pay evidence shows that CEO pay is strongly negatively correlated with top tax rates even controlling for firm characteristics and performance, and this correlation is stronger in firms with poor governance. These results suggest that bargaining effects play a role in the link between top incomes and top tax rates, implying that optimal top tax rates could be higher than commonly assumed.
-- title: "Optimal Taxation and Human Capital Policies over the Life Cycle"
-  pdflink: "https://www.dropbox.com/s/73zm4yb2qdrfwhj/S_Stantcheva_JMP.pdf?dl=0"
-  book: "Job Market Paper"
-  year: "2013"
-  note: "This is a long and comprehensive job market paper version and has now been replaced by two papers: ''Learning and (or) doing: Human Capital Investments and Optimal Taxation'' and ''Optimal Taxation and Human Capital Policies over the Life Cycle.''"
-  links:
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/s_stantcheva_jmp_slides.pdf"
-      text: "Slides"
-    - url: "https://scholar.harvard.edu/files/stantcheva/files/computational_appendix_s_stantcheva.pdf"
-      text: "Computational appendix"
-  abstract: >
-    This paper derives optimal income tax and human capital policies in a dynamic life cycle model of labor supply and risky human capital formation. The wage is a function of both stochastic, persistent, and exogenous inability and endogenous human capital. Human capital is acquired throughout life through monetary expenses and training time. The government faces asymmetric information regarding the initial ability of agents and the lifetime evolution of ability, as well as the labor supply. The optimal subsidy on human capital expenses is determined by three considerations: counterbalancing distortions to human capital investment from the taxation of wage and capital income, encouraging labor supply, and providing insurance against adverse draws from the productivity distribution. When the wage elasticity with respect to ability is increasing in human capital, the optimal subsidy involves less than full deductibility of human capital expenses on the tax base, and falls with age. The optimal tax treatment of training time also depends on its interactions with contemporaneous and future labor supply. I consider two ways to implement the optimum: income contingent loans, and a tax scheme that allows for a deferred deductibility of human capital expenses. Numerical results are presented that suggest that full dynamic risk-adjusted deductibility of expenses might be close to optimal, and that simple linear age-dependent policies can achieve most of the welfare gain from the second best.
+
