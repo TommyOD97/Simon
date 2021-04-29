@@ -1,6 +1,15 @@
       
 workingpapers:
 
+- title: "NO Voices at Work"
+  pdflink: "https://economics.mit.edu/files/21196.pdf"
+  coauthors: "Jarkko Harju and Benjamin Schoefer"
+  book: "Working Paper"
+  year: "2021" 
+  abstract: >
+   We estimate the effects of worker voice on job quality and separations. We leverage the 1991 introduction of worker representation on boards of Finnish firms with at least 150 employees. In contrast to exit-voice theory, our difference-in-differences design reveals no effects on voluntary job separations, and at most small positive effects on other measures of job quality (job security, health, subjective job quality, and wages). Worker voice slightly raised firm survival, productivity, and capital intensity. A 2008 introduction of shop-floor representation had similarly limited effects. Interviews and surveys indicate that worker representation facilitates information sharing rather than boosting labor’s power.
+
+
 - title: "Voices at Work"
   pdflink: "https://economics.mit.edu/files/21196.pdf"
   coauthors: "Jarkko Harju and Benjamin Schoefer"
