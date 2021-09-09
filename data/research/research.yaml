@@ -38,9 +38,13 @@ publications:
   coauthors: "Steffen Altmann, Armin Falk, and Florian Zimmermann"
   year: "2018"
 
-- title: "Complex Tax Incentives"
-  pdflink: "http://economics.mit.edu/files/13021.pdf"
-  book: "American Economic Journal: Economic Policy, 7 (3):1-28"
-  coauthors: "Johannes Abeler"
-  year: "2015"
+- title: "The Psychological Lives of the Poor"
+  pdflink: "https://economics.mit.edu/files/11364.pdf"
+  book: "American Economic Review Papers & Proceedings 106(5): 435-440"
+  coauthors: "Heather Schofield and Sendhil Mullainathan"
+  year: "2016"
+  other resources: 
+    - url: "https://economics.mit.edu/files/12715"
+      text: Online Appendix
+    
 
