@@ -3,6 +3,7 @@ workingpapers:
 
 - title: "Learning in the Household"
   pdflink: "https://economics.mit.edu/files/21115"
+  book: "Working Paper"
   coauthors: "John J. Conlon, Malavika Mani, Gautam Rao, and Matthew Ridley"
   abstract: >
     We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their ‘own’ and their husband’s information the same. In sharp contrast, men’s beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife’s signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, both men and women heavily discount their teammate’s information relative to their own. We conclude that people have a tendency to underweight others’ information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only) in the household.
@@ -29,7 +30,7 @@ publications:
 
 - title: "The Economic Consequences of Increasing Sleep among the Urban Poor"
   pdflink: "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjab013/6217436"
-  book: "Quarterly Journal of Economics 2021, 136(3): 1887-1941"
+  book: "Quarterly Journal of Economics, 136(3): 1887-1941"
   coauthors: "Pedro Bessone, Gautam Rao, Heather Schofield, and Mattie Toma"
   year: "2021"
   links:
@@ -52,6 +53,46 @@ publications:
   abstract: >
    The urban poor in developing countries face challenging living environments, which may interfere with good sleep. Using actigraphy to measure sleep objectively, we find that low-income adults in Chennai, India, sleep only 5.5 hours a night on average despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency—sleep per time in bed—comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes a night by inducing more time in bed. Contrary to expert predictions and a large body of sleep research, increased nighttime sleep had no detectable effects on cognition, productivity, decision making, or well being, and led to small decreases in labor supply. In contrast, short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognition, but a decrease in work time.
 
+- title: "Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms"
+  pdflink: "https://www.science.org/doi/10.1126/science.aay0214"
+  coauthors: "Matthew Ridley, Gautam Rao, and Vikram Patel"
+  book: "Science, Volume 370, Issue 6522"
+  year: "2020"
+  links:
+    - url: "https://economics.mit.edu/files/21025"
+      text: "Appendix" 
+    - url: "https://github.com/mridley93/Science-aay0214-code-and-data"
+      text: "Data" 
+    - url: "https://www.nber.org/papers/w27157"
+      text: "NBER Working Paper" 
+    - url: "https://www.science.org/news/2020/12/video-low-cost-interventions-could-help-combat-psychological-poverty-trap"
+      text: "AAAS Video"      
+    - url: "https://www.aaas.org/news/exploring-connection-between-poverty-and-mental-illness"
+      text: "AAAS Story" 
+    - url: "https://voxdev.org/topic/health-education/poverty-and-depression-how-improving-mental-health-can-help-economic-wellbeing"
+      text: "VoxDev (Patel)" 
+    - url: "https://www.weforum.org/agenda/2021/01/poverty-mental-health-covid-intervention"
+      text: "World Economic Forum" 
+
+- title: "Realizing the Potential of Digital Development: The Case of Agriculture"
+  pdflink: "https://www.science.org/doi/10.1126/science.aay3038"
+  coauthors: "Raissa Fabregas and Michael Kremer"
+  book: "Science, Volume 366, Issue 6471"
+  year: "2019"
+
+
+- title: "Alcohol and Self-Control: A Field Experiment in India"
+  pdflink: "https://economics.mit.edu/files/14959.pdf"
+  book: "American Economic Review, 109(4): 1290-1322"
+  year: "2019"
+  links: 
+    - url: "https://economics.mit.edu/files/16865"
+      text: "Online Appendix"  
+    - url: "https://voxdev.org/topic/health-education/alcohol-and-self-control-evidence-india"
+      text: "VoxDev" 
+    - url: "https://news.mit.edu/2019/india-working-poor-sobriety-savings-0621"
+      text: "MIT News"             
+
 - title: "Behavioral Development Economics"
   pdflink: "https://economics.mit.edu/files/16499"
   book: "Handbook of Behavioral Economics, Vol. 2. Bernheim, DellaVigna, and Laibson (eds.)."
@@ -62,22 +103,6 @@ publications:
       text: "Slides (pdf)"
     - url: "https://voxdev.org/topic/macroeconomics-growth/using-behavioural-economics-development-policy"
       text: "VoxDev (Kremer & Rao)"
-
-- title: "Poverty, Depression, and Anxiety: Causal Evidence and Mechanisms"
-  coauthors: "Matthew Ridley, Gautam Rao, and Vikram Patel"
-  book: "Science 2020, Volume 370, Issue 6522"
-  year: "2020"
-
-- title: "Realizing the Potential of Digital Development: The Case of Agriculture"
-  coauthors: "Raissa Fabregas and Michael Kremer"
-  book: "Science 2019, Volume 366, Issue 6471"
-  year: "2019"
-
-
-- title: "Alcohol and Self-Control: A Field Experiment in India"
-  book: "American Economic Review 2019, 109(4): 1290-1322"
-  year: "2019"
-
 
 - title: "Poverty and Cognitive Function"
   pdflink: "https://economics.mit.edu/files/18815"
