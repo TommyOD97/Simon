@@ -14,7 +14,7 @@ Here is my [Full CV](https://economics.mit.edu/faculty/fschilb/cv).
 
 ## Contact
 
-**Email:** [fschibach@mit.edu](fschilbach@mit.edu)  
+**Email:** [fschilb@mit.edu](fschilb@mit.edu)  
 **Address:** 
 MIT Department of Economics
 <br>Morris and Sophie Chang Building
