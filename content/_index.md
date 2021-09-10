@@ -4,11 +4,11 @@ title = "Homepage"
 
 ## Hello!
 
-I am an Assistant Professor of Economics at the Massachusetts Institute of Technology (MIT). 
+I am an Associate Professor of Economics at the Massachusetts Institute of Technology (MIT). 
 
-Before joining MIT, I worked at the Institute on Behavior and Inequality (briq) as a postdoctoral researcher. My research focuses on labor, public, and behavioral economics. I combine experimental and quasi-experimental methods with large, administrative datasets to shed light on the functioning of labor markets and the origins and consequences of inequality. 
+My research focuses on the intersection of behavioral and development economics. I examine previously neglected correlates of poverty, including substance abuse, physical pain, sleep deprivation, and depression. I seek to understand the role of these factors in the lives of the poor by studying their impacts on cognitive function, decision-making, and worker productivity. I also study the generation and diffusion of information about optimal agricultural inputs in sub-Saharan Africa.
 
-I received my PhD in economics from Harvard University.
+I received my PhD in economics from Harvard University. I received a diploma in economics from Mannheim University and an MA in economics from the University of California, Berkeley.
 
 Here is my [Full CV](https://economics.mit.edu/faculty/fschilb/cv). 
 
@@ -17,11 +17,8 @@ Here is my [Full CV](https://economics.mit.edu/faculty/fschilb/cv).
 **Email:** [fschibach@mit.edu](fschilbach@mit.edu)  
 **Address:** 
 MIT Department of Economics
-
 Morris and Sophie Chang Building
-
 50 Memorial Drive, Building E52-560
-
 Cambridge, MA 02142
 
 **Staff Support:** Tommy O'Donnell  
