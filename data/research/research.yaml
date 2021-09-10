@@ -3,7 +3,6 @@ workingpapers:
 
 - title: "Learning in the Household"
   pdflink: "https://economics.mit.edu/files/21115"
-  book: "Working Paper"
   coauthors: "John J. Conlon, Malavika Mani, Gautam Rao, and Matthew Ridley"
   abstract: >
     We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their ‘own’ and their husband’s information the same. In sharp contrast, men’s beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife’s signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, both men and women heavily discount their teammate’s information relative to their own. We conclude that people have a tendency to underweight others’ information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only) in the household.
@@ -26,6 +25,32 @@ workingpapers:
   abstract: >
     Workers who are worried about their personal finances may find it hard to focus at work. If so, reducing financial concerns could by itself increase productivity. We test this hypothesis in a sample of low-income Indian piece rate manufacturing workers. We stagger when wages are paid out: some workers are paid earlier and receive a cash infusion while others remain liquidity constrained. The cash infusion leads workers to reduce their financial concerns by immediately paying off debts and buying household essentials. Subsequently, they become more productive at work: their output increases by 7.1% (0.12 SDs), and they make fewer costly, unintentional mistakes. Workers with more cash-on-hand thus not only work faster but also more attentively, suggesting improved cognition. These effects are concentrated among more financially constrained workers. We argue that mechanisms such as gift exchange or nutrition cannot account for our results. Instead, our findings suggest that financial strain, at least partly through psychological channels, has the potential to reduce earnings exactly when money is most needed. 
 
+publications:
+
+- title: "The Economic Consequences of Increasing Sleep among the Urban Poor"
+  pdflink: "https://academic.oup.com/qje/advance-article/doi/10.1093/qje/qjab013/6217436"
+  book: "Quarterly Journal of Economics 2021, 136(3): 1887-1941"
+  coauthors: "Pedro Bessone, Gautam Rao, Heather Schofield, and Mattie Toma"
+  year: "2021"
+  links:
+    - url: "https://voxdev.org/topic/health-education/increasing-sleep-urban-poor-evidence-india?utm_source=hootsuite&utm_medium=&utm_term=&utm_content=&utm_campaign="
+      text: "VoxDev" 
+    - url: "https://www.youtube.com/watch?v=Y5LzJXmxK4E"
+      text: "Econimate Video" 
+    - url: "https://freakonomics.com/podcast/napping/"
+      text: "Freakonomics Radio" 
+    - url: "https://www.nber.org/digest/apr20/its-quality-sleep-counts-boosting-productivity"
+      text: "NBER Digest"      
+    - url: "https://news.mit.edu/2021/india-sleep-study-economics-0729"
+      text: "MIT News" 
+    - url: "https://www.nber.org/papers/w26746"
+      text: "NBER Working Paper" 
+    - url: "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/GJ9QPC"
+      text: "Data, code and surveys" 
+    - url: "https://economics.mit.edu/files/16994"
+      text: "Working paper (with appendix)"                       
+  abstract: >
+   The urban poor in developing countries face challenging living environments, which may interfere with good sleep. Using actigraphy to measure sleep objectively, we find that low-income adults in Chennai, India, sleep only 5.5 hours a night on average despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency—sleep per time in bed—comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes a night by inducing more time in bed. Contrary to expert predictions and a large body of sleep research, increased nighttime sleep had no detectable effects on cognition, productivity, decision making, or well being, and led to small decreases in labor supply. In contrast, short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognition, but a decrease in work time.
 
 - title: "Behavioral Development Economics"
   pdflink: "https://economics.mit.edu/files/16499"
@@ -53,4 +78,22 @@ workingpapers:
     - url: "https://economics.mit.edu/files/12715"
       text: "Online Appendix"
     
+WorksinProgress:
 
+- title: The Long-Run Impacts of Psychotherapy for Depression 
+  coauthors: "Bhargav Bhat, Jon de Quidt, Johannes Haushofer, Vikram Patel, Gautam Rao, and Pierre-Luc Vautrey" 
+
+- title: "Technology Diffusion and Appropriate Use: Evidence from Western Kenya" 
+  coauthors: "Esther Duflo, Michael Kremer, and Jon Robinson"
+
+- title: "The Impact of Psychological First Aid on Mental and Economic Well-Being" 
+  coauthors: "Kevin Carney, Lisa Ho, and Gautam Rao"
+
+- title: "Using Online Psychotherapy to Improve Mental Health and Economic Resilience"
+ coauthors: "Ria Granzier Nakajima, Matt Notowidigdo, Gautam Rao, Heather Sarsons, and Jeffrey Yang"
+
+- title: "Improving the Psychological and Economic Lives of the Elderly in India" 
+ coauthors: "Abhijit Banerjee, Esther Duflo, Maddie McKelway, Garima Sharma, and Girija Vaidyanathan"
+
+- title: "Biased Beliefs, Stigma, and the Demand for Mental Health Services" 
+ coauthors: "Kevin Carney, Lisa Ho, and Gautam Rao"
