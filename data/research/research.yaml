@@ -1,34 +1,43 @@
       
 workingpapers:
 
-- title: "Long-Term Effects of Equal Sharing: Evidence from Inheritance Rules for Land"
-  pdflink: "http://economics.mit.edu/files/20830.pdf"
+- title: "Learning in the Household"
+  pdflink: "https://economics.mit.edu/files/21115"
   book: "Working Paper"
-  coauthors: "Charlotte Bartels and Natalie Obergruber"
+  coauthors: "John J. Conlon, Malavika Mani, Gautam Rao, and Matthew Ridley"
   abstract: >
-    What are the long-term economic effects of a more equal distribution of wealth? We exploit variation in historical inheritance rules for land traversing political, linguistic, geological, and religious borders in Germany. In some German areas, inherited land was to be shared or divided equally among children, while in others land was ruled to be indivisible. Using a geographic regression discontinuity design, we show that equal division of land led to a more equal distribution of land; other potential drivers of growth are smooth at the boundary and equal division areas were not historically more developed. Today, equal division areas feature higher average incomes and a right-shifted skill, income, and wealth distribution. Higher top incomes and top wealth in equal division areas coincide with higher education, and higher labor productivity. We show evidence consistent with the more even distribution of land leading to more innovative industrial by-employment during Germany’s transition from an agrarian to an industrial economy and, in the longrun, more entrepreneurship.
+    We study social learning between spouses using an experiment in Chennai, India. We vary whether individuals discover information themselves or must instead learn what their spouse discovered via a discussion. Women treat their ‘own’ and their husband’s information the same. In sharp contrast, men’s beliefs respond less than half as much to information that was discovered by their wife. This is not due to a lack of communication: husbands put less weight on their wife’s signals even when perfectly informed of them. In a second experiment, when paired with mixed- and same-gender strangers, both men and women heavily discount their teammate’s information relative to their own. We conclude that people have a tendency to underweight others’ information relative to their own. The marital context creates a countervailing force for women, resulting in a gender difference in learning (only) in the household.
 
-
-- title: "How Substitutable are Workers? Evidence from Worker Deaths"
-  pdflink: "http://economics.mit.edu/files/16635.pdf"
-  book: "Revise and resubmit, American Economic Review"
-  coauthors: "Jörg Heining"
+   
+- title: "Do Financial Concerns Make Workers Less Productive?"
+  pdflink: "https://economics.mit.edu/files/21698"
+  book: "Revise and Resubmit, Quarterly Journal of Economics"
+  coauthors: "Supreet Kaur, Sendhil Mullainathan, and Suanna Oh"
   year: "2019"
-  presscoverage:
-    - url: "https://clsbluesky.law.columbia.edu/2017/06/14/how-substitutable-are-workers-evidence-from-worker-deaths/"
-      text: "Summary for Columbia Law School's blog" 
+  links:
+    - url: "https://voxdev.org/topic/finance/alleviating-financial-strain-drive-productivity-evidence-india"
+      text: "VoxDev (Kaur)" 
+    - url: "https://www.npr.org/sections/money/2021/02/02/961910289/how-poverty-makes-workers-less-productive"
+      text: "NBER Planet Money" 
+    - url: "https://mitsloan.mit.edu/ideas-made-to-matter/study-cash-hand-can-raise-productivity-low-income-workers"
+      text: "Sloan News" 
+    - url: "https://www.nber.org/papers/w28338"
+      text: "NBER Working Paper"                   
   abstract: >
-    To assess the substitutability between workers within a firm, and between incumbent workers and outsiders, we estimate how exogenous worker exits aect a firm’s demand for incumbent workers and new hires. Using matched employer-employee data from Germany, we analyze the eects of 34,000 unexpected worker deaths and show that these worker exits on average raise the remaining workers’ wages and retention probabilities for a period of several years. The average eect masks substantial heterogeneity: Coworkers in the same occupation as the deceased see positive wage eects; coworkers in other occupations instead experience wage decreases when a high-skilled worker or manager dies. Finally, when the external labor market in the deceased’s occupation is thin, incumbents’ wages respond more and external hiring responds less to a worker death. Taken together, our findings imply that incumbent workers are closer substitutes to one another compared to outsiders, that high-skilled workers and managers are complements to coworkers in other occupations, and that thin external markets for skills lead to higher firm-specificity of human capital and lower replaceability of incumbents.
+    Workers who are worried about their personal finances may find it hard to focus at work. If so, reducing financial concerns could by itself increase productivity. We test this hypothesis in a sample of low-income Indian piece rate manufacturing workers. We stagger when wages are paid out: some workers are paid earlier and receive a cash infusion while others remain liquidity constrained. The cash infusion leads workers to reduce their financial concerns by immediately paying off debts and buying household essentials. Subsequently, they become more productive at work: their output increases by 7.1% (0.12 SDs), and they make fewer costly, unintentional mistakes. Workers with more cash-on-hand thus not only work faster but also more attentively, suggesting improved cognition. These effects are concentrated among more financially constrained workers. We argue that mechanisms such as gift exchange or nutrition cannot account for our results. Instead, our findings suggest that financial strain, at least partly through psychological channels, has the potential to reduce earnings exactly when money is most needed. 
 
-
-publications:
 
 - title: "Behavioral Development Economics"
   pdflink: "https://economics.mit.edu/files/16499"
   book: "Handbook of Behavioral Economics, Vol. 2. Bernheim, DellaVigna, and Laibson (eds.)."
   coauthors: "Michael Kremer and Gautam Rao"
   year: "2019"
- 
+ links: 
+    - url: "https://economics.mit.edu/files/16748"
+      text: "Slides (pdf)"
+    - url: "https://voxdev.org/topic/macroeconomics-growth/using-behavioural-economics-development-policy"
+      text: "VoxDev (Kremer & Rao)"
+
 - title: "Poverty and Cognitive Function"
   pdflink: "https://economics.mit.edu/files/18815"
   book: "The Economics of Asset Accumulation and Poverty Traps."
@@ -40,8 +49,8 @@ publications:
   book: "American Economic Review Papers & Proceedings 106(5): 435-440"
   coauthors: "Heather Schofield and Sendhil Mullainathan"
   year: "2016"
-  other resources: 
+  links: 
     - url: "https://economics.mit.edu/files/12715"
-      text: Online Appendix
+      text: "Online Appendix"
     
 
