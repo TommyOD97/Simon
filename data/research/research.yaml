@@ -23,19 +23,16 @@ workingpapers:
 
 publications:
 
-- title: "A Permutation Test for the Regression Kink Design"
-  pdflink: "http://economics.mit.edu/files/13020.pdf"
-  book: "Journal of the American Statistical Association, Vol. 113:522, pp. 494-504"
-  coauthors: "Peter Ganong"
-  year: "2018"
-  abstract: >
-    The Regression Kink (RK) design is an increasingly popular empirical method for estimating causal effects of policies, such as the effect of unemployment benefits on unemployment duration. Using simulation studies based on data from existing RK designs, we empirically document that the statistical significance of RK estimators based on conventional standard errors can be spurious. In the simulations, false positives arise as a consequence of nonlinearities in the underlying relationship between the outcome and the assignment variable, confirming concerns about the misspecification bias of discontinuity estimators pointed out by Calonico et al. (2014b). As a complement to standard RK inference, we propose that researchers construct a distribution of placebo estimates in regions with and without a policy kink and use this distribution to gauge statistical significance. Under the assumption that the location of the kink point is random, this permutation test has exact size in finite samples for testing a sharp null hypothesis of no effect of the policy on the outcome. We implement simulation studies based on existing RK applications that estimate the effect of unemployment benefits on unemployment duration and show that our permutation test as well as inference procedures proposed by Calonico et al. (2014b) improve upon the size of standard approaches, while having sufficient power to detect an effect of unemployment benefits on unemployment duration.
-
-
-- title: "Learning about Job Search: A Field Experiment with Job Seekers in Germany"
-  pdflink: "http://economics.mit.edu/files/13778.pdf"
-  book: "Journal of Public Economics, Vol. 164"
-  coauthors: "Steffen Altmann, Armin Falk, and Florian Zimmermann"
+- title: "Behavioral Development Economics"
+  pdflink: "https://economics.mit.edu/files/16499"
+  book: "Handbook of Behavioral Economics, Vol. 2. Bernheim, DellaVigna, and Laibson (eds.)."
+  coauthors: "Michael Kremer and Gautam Rao"
+  year: "2019"
+ 
+- title: "Poverty and Cognitive Function"
+  pdflink: "https://economics.mit.edu/files/18815"
+  book: "The Economics of Asset Accumulation and Poverty Traps."
+  coauthors: "Emma Boswell Dean and Heather Schofield"
   year: "2018"
 
 - title: "The Psychological Lives of the Poor"
