@@ -69,14 +69,14 @@ publications:
   year: "2020"
 
 - title: "Realizing the Potential of Digital Development: The Case of Agriculture"
- coauthors: "Raissa Fabregas and Michael Kremer"
- book: "Science 2019, Volume 366, Issue 6471"
- year: "2019"
+  coauthors: "Raissa Fabregas and Michael Kremer"
+  book: "Science 2019, Volume 366, Issue 6471"
+  year: "2019"
 
 
 - title: "Alcohol and Self-Control: A Field Experiment in India"
- book: "American Economic Review 2019, 109(4): 1290-1322"
- year: "2019"
+  book: "American Economic Review 2019, 109(4): 1290-1322"
+  year: "2019"
 
 
 - title: "Poverty and Cognitive Function"
@@ -93,8 +93,7 @@ publications:
   links: 
     - url: "https://economics.mit.edu/files/12715"
       text: "Online Appendix"
-    
-WorksinProgress:
+  
 
 - title: The Long-Run Impacts of Psychotherapy for Depression 
   coauthors: "Bhargav Bhat, Jon de Quidt, Johannes Haushofer, Vikram Patel, Gautam Rao, and Pierre-Luc Vautrey" 
