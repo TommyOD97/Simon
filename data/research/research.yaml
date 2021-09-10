@@ -32,7 +32,7 @@ workingpapers:
   book: "Handbook of Behavioral Economics, Vol. 2. Bernheim, DellaVigna, and Laibson (eds.)."
   coauthors: "Michael Kremer and Gautam Rao"
   year: "2019"
- links: 
+  links: 
     - url: "https://economics.mit.edu/files/16748"
       text: "Slides (pdf)"
     - url: "https://voxdev.org/topic/macroeconomics-growth/using-behavioural-economics-development-policy"
